@@ -1,0 +1,3 @@
+# Ignoramos el archivo privado.txt y la carpeta privada
+privado.txt
+privada/
